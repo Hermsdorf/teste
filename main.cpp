@@ -103,6 +103,7 @@ int main()
 
     file.close();
     file_out.close();
+    cout << "Total Elements: " << new_id << endl;   
     return 0;
 
 }
